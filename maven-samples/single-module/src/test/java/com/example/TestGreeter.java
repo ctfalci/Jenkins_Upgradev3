@@ -32,11 +32,11 @@ public class TestGreeter {
   }
 
     @Test
-  public void greetShouldIncludeGreetingMessage() {
+  public void greetShouldIncludeGreetingMessage1() {
     String someone = "World, Thanks you making me Happy";
 
     @Test
-  public void greetShouldIncludeGreetingMessage() {
+  public void greetShouldIncludeGreetingMessage2() {
     String someone = "World will be a better place with integration, definitely";
 
 
